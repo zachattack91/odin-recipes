@@ -1,0 +1,12 @@
+#header {
+    text-align: center;
+    font-size: 48px;
+    font-family: "Lucida Handwriting", "Brush Script MT", sans-serif;
+    color: blue;
+}
+
+.recipe-list {
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+}
